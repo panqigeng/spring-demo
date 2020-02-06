@@ -1,7 +1,7 @@
 <template>
   <div class="chart-container">
     <chart height="100%" width="100%" />
-	33333
+	dev1dev1dev1dev1
   </div>
 </template>
 
