@@ -1,11 +1,7 @@
 <template>
   <div class="chart-container">
     <chart height="100%" width="100%" />
-<<<<<<< HEAD
-	pppppppppppppppppppp-------------dev1
-=======
-	charts
->>>>>>> dev
+	chartskkkkkkkkkkkkkkkkkk
   </div>
 </template>
 
